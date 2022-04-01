@@ -1,0 +1,401 @@
+.heading{
+    font-size: 35px;
+    font-family: Georgia, serif;
+    font-weight: 600;
+    color: #6733e2 !important;
+    letter-spacing: 2px;
+    margin: 75px 0 0 45px;
+}
+.para{
+    font-size: 21px;
+    font-family: Georgia, serif;
+    font-weight: 400;
+    color: #6733e2 !important;
+    margin: 15px 0 0 45px;
+}
+.button{
+    color: #6733e2 !important;
+    background-color: #f8dd28;
+    margin: 35px auto 0 45px;
+    padding: 21px 30px 21px 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    letter-spacing: 4px;
+    font-weight: 700;
+} 
+.button:hover {
+    background-color: #6733e2 !important;
+    color: white !important;
+}
+.banner-image{
+    margin: 75px 0 45px 0;
+}
+
+/* Second Div */
+.img-background{
+    color: #6733e2 !important;
+    background-color: #6733e2 !important;
+    border-radius: 12px !important;
+    padding: 15px 15px 15px 15px;
+}
+.image-1{
+    height: 312px;
+    width: 426px;
+}
+.text{
+    font-size: 18px;
+    font-family: Georgia, serif;
+    font-weight: 400;
+    color: white !important;
+    margin: 15px 0 0 15px; 
+}
+.heading-2{
+    font-size: 22px;
+    font-family: Georgia, serif;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+.para-2{
+    font-size: 38px;
+    font-family: Georgia, serif;
+    font-weight: 700;
+    color: #6733e2 !important;
+    margin: 15px 0 10px 0;
+}
+.para-3{
+    font-size: 18px;
+    font-family: Georgia, serif;
+    font-weight: 700;
+    margin: 10px 0 10px 0;
+}
+.para-4{
+    font-size: 17px;
+    font-family: Georgia, serif;
+    font-weight: 300;
+    margin: 15px 0 10px 0;
+    line-height: 2;
+}
+
+.button1{
+    color: #6733e2 !important;
+    background-color: #f8dd28;
+    margin: 35px auto 0 0;
+    padding: 21px 30px 21px 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    letter-spacing: 4px;
+    font-weight: 700;
+    text-transform: uppercase;
+} 
+.button1:hover {
+    background-color: #6733e2 !important;
+    color: white !important;
+}
+
+/* Third Div */
+/* .heading-3{
+    font-size: 35px;
+    font-family: Georgia, serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #f8dd28;
+    text-align: center;
+}
+.para-5{
+    font-size: 21px;
+    font-family: Georgia, serif;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.background{
+    background-color:white ;
+    border-radius: 12px;
+    margin-left: 20px;
+}
+.heading-4{
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    font-family: Georgia, serif;
+    color: #6733e2 !important;
+}
+.para-6{
+    font-size: 16px;
+    line-height: 1.6;
+    font-weight: 400;
+    margin: 20px 0 0;
+    text-align:center ;
+}
+
+.button2{
+    color: #6733e2 !important;
+    background-color: #f8dd28;
+    margin: 27px auto 0 82px;
+    padding: 11px 27px 11px 27px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    letter-spacing: 4px;
+    font-weight: 700;
+    text-transform: uppercase;    
+} 
+.button2:hover {
+    background-color: #6733e2 !important;
+    color: #f8dd28 !important;
+} */
+
+.heading-3{
+    font-size: 35px;
+    font-family: Georgia, serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #f8dd28;
+    text-align: center;
+}
+.para-5{
+    font-size: 21px;
+    font-family: Georgia, serif;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.test{
+    background-color:white ;
+    border-radius: 12px;
+    height: 300px;
+    padding: 10px;
+    margin-top: 4%;
+}
+.heading-4{
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    font-family: Georgia, serif;
+    color: #6733e2 !important;
+}
+.para-6{
+    font-size: 16px;
+    line-height: 1.6;
+    font-weight: 400;
+    margin: 20px 0 0;
+    text-align:center ;
+}
+
+.button2{
+    color: #6733e2 !important;
+    background-color: #f8dd28;
+    margin: 27px auto 0 125px;
+    padding: 11px 27px 11px 27px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    letter-spacing: 4px;
+    font-weight: 700;
+    text-transform: uppercase;    
+} 
+.button2:hover {
+    background-color: #6733e2 !important;
+    color: #f8dd28 !important;
+}
+
+
+/* Fourth Div */
+.heading-5{
+    font-size: 65px;
+    font-weight: 500;
+    font-family: Georgia, serif;
+    color: #6733e2 !important;
+    margin-top: 75px;
+}
+.list{
+    font-size: 19px;
+    font-weight: 300;
+    font-family: Georgia, serif;
+    line-height: 2;
+}
+.image-2{
+    width: 400px;
+    height: 517px;
+    margin: 75px 0 115px 30px;
+}
+/* Fifth Div */
+.background-2{
+    background-color: white;
+    border-radius: 17px !important;
+    height: 520px;
+    padding:20px;
+    position: relative;
+}
+.heading-6{
+    font-size: 45px;
+    font-weight: 500;
+    font-family: Georgia, serif;
+    text-align: center;
+    color: white !important;
+}
+.text-1{
+    font-size: 25px;
+    font-weight: 500;
+    font-family: Georgia, serif;
+    text-align: center;
+    color: white !important;
+    font-style: italic;
+}
+.text-2{
+    font-size: 25px;
+    font-weight: 500;
+    font-family: Georgia, serif;
+    text-align: center;
+    color: white !important;
+    font-style: italic;
+}
+.image-3{
+    width: 216px;
+    height: 216px;
+    background-image: url(/Image-Bootstrap/pics-4.jpg);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    margin: 0 auto 0 10px;
+}
+.text-3{
+    font-size: 25px;
+    font-weight: 500;
+    font-family: Georgia, serif;
+    text-align: center;
+}
+.text-4{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Georgia, serif;
+    text-align: center;
+    color: #6733e2 !important;
+}
+.text-5{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Georgia, serif;
+    text-align:center ;
+    font-style: italic;
+    line-height: 2;
+    margin: 23px 0 0;
+}
+.button3{
+    color: #6733e2 !important;
+    background-color: #f8dd28;
+    margin-top: 10px;
+    padding: 25px 159px 25px 25px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 50px;
+    margin-left:235px;
+} 
+.button3:hover {
+    background-color: #6733e2 !important;;
+    color: white !important;
+  }
+  .button4{
+    color: #6733e2 !important;
+    background-color: #f8dd28;
+    padding: 25px 344px 25px 25px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 50px;
+    margin-left:235px;
+} 
+.button4:hover {
+    background-color: #6733e2 !important;;
+    color: white !important;
+  }
+  .button5{
+    color: #6733e2 !important;
+    background-color: #f8dd28;
+    padding: 25px 249px 25px 25px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 50px;
+    margin-left:235px;
+} 
+.button5:hover {
+    background-color: #6733e2 !important;;
+    color: white !important;
+  }
+  .button6{
+    color: #6733e2 !important;
+    background-color: #f8dd28;
+    padding: 25px 257px 25px 25px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 50px;
+    margin-left:235px;
+} 
+.button6:hover {
+    background-color: #6733e2 !important;;
+    color: white !important;
+  }
+
+  .text-17{
+    color: #6733e2;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: Montserrat,sans-serif !important;
+    margin: 60px auto 0 458px;
+}
+.border{
+    width: 100px;
+    height: 3px;
+    margin: 30px auto 0;
+    border-color: #6733e2;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.name{
+    font-size: 19px;
+    margin-top: 24px;
+    margin-bottom:5px;
+    margin-left: 85px;
+}
+.des{
+    margin-left: 55px;
+    font-weight: 600;
+    font-family: Montserrat,sans-serif !important;
+}
+.des3{
+    margin-left: 65px;
+    font-weight: 600;
+    font-family: Montserrat,sans-serif !important;
+}
+
+.des2{
+    margin-left: 64px;
+    font-weight: 600;
+    font-family: Montserrat,sans-serif !important;
+}
+.text-bottom{
+    font-size: 21px;
+    margin: 20px 10px 0 10px;
+    text-align: justify;
+    font-style: normal;
+    line-height: 1.4;
+    font-family: 'Open Sans',sans-serif !important;
+}
